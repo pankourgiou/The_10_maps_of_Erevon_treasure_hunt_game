@@ -1,0 +1,1 @@
+Hi! This is the 10 maps of Erevon treasure hunt game!! It's a strange place we could say..this time the game becomes a bit more difficult , so copy-paste the code on your notepad and save it as .html then double click the file and you are ready for the treasure hunt game!!!enjoy!
